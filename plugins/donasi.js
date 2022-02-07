@@ -1,8 +1,9 @@
-let handler = async (m, { conn }) => await conn.sendButtonLoc(m.chat, fla + 'donasi', `
-┌「 *Topap • Maxis* 」
+let fetch = require('node-fetch')
+let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fetch(fla + 'donasi')).buffer(), `
+┌〔 Topap•Maxis 〕
 ├ 60147366955
 └────
-`.trim(), '© Putbotz', 'Donasi', '.donasi', m)
+`.trim(), footer, 'Owner', '.owner')
 handler.help = ['donasi']
 handler.tags = ['info']
 handler.command = /^dona(te|si)$/i
