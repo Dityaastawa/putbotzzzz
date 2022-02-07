@@ -1,8 +1,8 @@
 {
-  "name": "Putbotz",
-  "version": "2.0.4",
+  "name": "Putbotzz",
+  "version": "1.5.7",
   "description": "Made By ©Putbotz",
-  "depecrated": false,
+  "depecrated": true,
   "main": "index.js",
   "directories": {
     "lib": "lib",
