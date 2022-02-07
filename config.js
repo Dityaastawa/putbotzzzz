@@ -62,7 +62,7 @@ global.author = 'ganteng' // ganti aja
 bc = 'Putbotz' // putbotz bc'
 footer = '\n©Putbotz'
 namabot = 'Putbotz'
-namalu = 'fahril'
+namalu = 'Putbotz'
 
 
 // 
@@ -78,7 +78,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.image = 'https://telegra.ph/putbotz-02-07'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 36 // The higher, The harder levelup
+global.multiplier = 9999999 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
