@@ -25,7 +25,7 @@ const defaultMenu = {
 ┃
 ┃⬡ ⏰Uptime: %uptime 
 ┃⬡ 📁Database: %rtotalreg dari %totalreg
-┃⬡ 👨‍🔧creator: fahril ahmad
+┃⬡ 👨‍🔧creator: Putbotz
 ┃
 ┗━━━━━━⬣`.trimStart(),
   header: '┏━━〔 %category 〕━⬣',
@@ -175,7 +175,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
     let names = m.fromMe ? conn.user : conn.contacts[who]
     let pushname = `${names.vnmae || names.notify || names.names || ('+' + names.jid.split`@`[0])}`
-    let pushn = 'menampilkan MENU fahrilbotz'
+    let pushn = '_menampilkan MENU Putbotz_'
     let name = registered ? global.db.data.users[m.sender].name : pushn
     let d = new Date(new Date + 3600000)
     let locale = 'id'
