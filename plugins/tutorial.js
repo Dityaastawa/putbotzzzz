@@ -43,7 +43,7 @@ let handler = async (m, { conn, text }) => {
 └─「 *Tutorial Main BOT* 」
 
 `.trim()
-conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'Tutorial')).buffer(), ext, 'creator by fahril', 'Adventure', '.adventure', 'Claim', '.claim', 'Sewa Bot', '.sewa', m)
+conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'Tutorial')).buffer(), ext, 'creator by @Putbotz', 'Adventure', '.adventure', 'Claim', '.claim', 'Sewa Bot', '.sewa', m)
 
 }
 handler.help = ['tutorial']
