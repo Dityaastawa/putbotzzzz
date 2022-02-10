@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/EGwXft3tf1z3VhKfx0W379'] // ganti jadi group lu
-global.owner = ['12183026297','60147366955'] // Put your number here //owner eval
-global.kontak = ['12183026297','60147366955'] //Ketika ada yang ngetik #owner
-global.mods = ['60147366955'] // Want some help?
-global.prems = ['12183026297','60147366955','0'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/LJHLvvu63DMG9MNBqua30M'] // ganti jadi group lu
+global.owner = ['6285237596750','6285237596750'] // Put your number here //owner eval
+global.kontak = ['6285237596750','6285237596750'] //Ketika ada yang ngetik #owner
+global.mods = ['6285237596750'] // Want some help?
+global.prems = ['6285237596750','6285237596750','0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -46,23 +46,23 @@ lolkey = 'rey2k21'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'whooputt'
-namagithub = 'Putbot'
+namaig = 'gededitya270'
+namagithub = '-'
 kasihcaption = `Nih kak`
-namakontak1 = 'Owner Putbotz'
-namakontak2 = 'Moderator Putbotz'
+namakontak1 = 'ditya astawa'
+namakontak2 = 'ditya astawa'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Putbotz' // ganti aja
-global.author = 'ganteng' // ganti aja
+global.packname = 'dityabotz' // ganti aja
+global.author = 'by dityaastawa' // ganti aja
 
 //yyy
-bc = 'Putbotz' // putbotz bc'
-footer = '\n©Putbotz'
-namabot = 'Putbotz'
-namalu = 'Putbotz'
+bc = 'dityabotz' // putbotz bc'
+footer = '\n©Dityabotz'
+namabot = 'dityabotz'
+namalu = 'Dityaastawa'
 
 
 // 
