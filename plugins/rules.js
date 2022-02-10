@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
-    let kontol = `Kebijakan Privasi, Syarat Ketentuan dan Peraturan Putbotz
+    let kontol = `Kebijakan Privasi, Syarat Ketentuan dan Peraturan Dityabotz
 
 Kebijakan Privasi
 1. Dityabotz tidak akan merekam data riwayat chat user.
