@@ -25,7 +25,7 @@ const defaultMenu = {
 ┃
 ┃⬡ ⏰Uptime: %uptime 
 ┃⬡ 📁Database: %rtotalreg dari %totalreg
-┃⬡ 👨‍🔧creator: Putbotz
+┃⬡ 👨‍🔧creator: DityaBotz
 ┃
 ┗━━━━━━⬣`.trimStart(),
   header: '┏━━〔 %category 〕━⬣',
@@ -228,7 +228,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
           "description": `
-┏─━─「 Putbotz 」━⬣  
+┏─━─「 DityaBotz 」━⬣  
 │⬡ ⏰Aktif selama ${uptime}
 ┃⬡ ⚡Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 │⬡ *${conn.blocklist.length}* Terblock
@@ -243,7 +243,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `🧾 allmenu`,
-                  "description": "Semua Fitur Putbotz",
+                  "description": "Semua Fitur Dityabotz",
                   "rowId": ".? all"
                 }, {
                   "title": "🕋 Islam",

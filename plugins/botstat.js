@@ -8,7 +8,7 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
     m.reply(`
-┌─〔 Status Putbotz 〕
+┌─〔 Status DityaBotz 〕
 ├ Aktif selama ${uptime}
 ├ Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 ├ *${groups.length}* Grup

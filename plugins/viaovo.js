@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via OVO
 ╠➥ Ke nomer ini
-║➥ 083822759168
+║➥ -
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -22,7 +22,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2021 Rpg fahril ahmad
+╠═ ©2021 Rpg ditya astawa
 ╠═ Scrip original by fahril
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }

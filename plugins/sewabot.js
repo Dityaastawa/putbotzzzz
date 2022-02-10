@@ -3,23 +3,23 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kamisato = `
 ┌〔 List Berlangganan 〕
-├ 2 Bulan
-├ 1 Bulan
+├ 3 Minggu
+├ 2 Minggu
 ├ 1 Minggu
 ├ 3 hari
 └────
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa : 60147366955
+Pulsa/Dana : 085792429140
 `.trim()
     const button = {
         buttonText: 'List Harga',
         description: kamisato,
         sections:  [{title: "Silahkan di pilih", rows: [
-        {title: '2 Bulan', description: "Rm30\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
-        {title: '1 Bulan', description: "Rm20\nSewa bot selama 1 bulan.", rowId:".masuk"},
-        {title: '1 Minggu', description: "Rm15\nSewa bot selama 1 minggu.", rowId:".masuk"},
+        {title: '3 Minggu', description: "Rp10k\nSewa bot selama 3 minggu.", rowId:".masuk"},
+        {title: '2 Minggu', description: "Rp8k\nSewa bot selama 2 minggu.", rowId:".masuk"},
+        {title: '1 Minggu', description: "Rp5k\nSewa bot selama 1 minggu.", rowId:".masuk"},
         {title: '3 hari', description: "Rm5.\nSewa bot selama 3 hari.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
         {title: 'Rules', description: "Kebijakan Privasi, Syarat Ketentuan dan Peraturan.", rowId:".rules"},

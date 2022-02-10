@@ -4,13 +4,13 @@ let handler = async(m, { conn }) => {
     let kontol = `Kebijakan Privasi, Syarat Ketentuan dan Peraturan fahrilbotz
 
 Kebijakan Privasi
-1. fahrilbotz' tidak akan merekam data riwayat chat user.
-2. fahrilbotz tidak akan menyebarkan nomor users.
-3. fahrilbotz tidak akan menyimpan media yang dikirimkan oleh users.
-4. fahrilbotz tidak akan menyalah gunakan data data users.
-5. Owner fahrilbotz berhak melihat data riwayat chat users.
-6. Owner fahrilbotz berhak melihat status users.
-7. Owner fahrilbotz dapat melihat riwayat chat, dan media yang dikirimkan users.
+1. dityabotz' tidak akan merekam data riwayat chat user.
+2. dityabotz tidak akan menyebarkan nomor users.
+3. dityabotz tidak akan menyimpan media yang dikirimkan oleh users.
+4. dityabotz tidak akan menyalah gunakan data data users.
+5. Owner dityabotz berhak melihat data riwayat chat users.
+6. Owner dityabotz berhak melihat status users.
+7. Owner dityabotz dapat melihat riwayat chat, dan media yang dikirimkan users.
 
 Peraturan Sirad Bot
 1. Users dilarang menelpon maupun memvideo call nomor bot.
@@ -21,10 +21,10 @@ Peraturan Sirad Bot
 
 Syarat Ketentuan Sirad Bot
 1. Bot akan keluar dari group apabila sudah waktunya keluar.
-2. fahrilbotz dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
-3. fahrilbotz *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*
-4. fahrilbotz akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
-5. fahrilbotz bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
+2. dityabotz dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
+3. dityabotz *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*
+4. dityabotz akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
+5. dityabotz bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 
 SC : Tq
 -Raditya
