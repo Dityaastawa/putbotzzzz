@@ -303,7 +303,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? premium"
                 }, {
                   "title": "🖥️ Internet",
-                  "description": "Cari Sesuatu Di Putbotzt",
+                  "description": "Cari Sesuatu Di Dityabotz",
                   "rowId": ".? internet"
                 }, {
                   "title": "🥷 Anonymous",
@@ -315,11 +315,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? nulis"
                 }, {
                   "title": "⬇️ Downloader",
-                  "description": "Download Sesuatu Di Putbotz",
+                  "description": "Download Sesuatu Di Dityabotz",
                   "rowId": ".? downloader"
                 }, {
                   "title": "🔧 Tools",
-                  "description": "Tools Yang Bisa di Gunakan Di Putbotz",
+                  "description": "Tools Yang Bisa di Gunakan Di Dityabotz",
                   "rowId": ".? tools"
                 }, {
                   "title": "😂 fun",
@@ -327,11 +327,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? fun"
                 }, {
                    "title": "💲donasi",
-                   "description": "jangan lupa donasi di Putbotz",
+                   "description": "jangan lupa donasi di Dityabotz",
                    "rowId": ".donasi" 
                 }, {
                   "title": "📂 Database",
-                  "description": "Simpan Sesuatu di Putbotz",
+                  "description": "Simpan Sesuatu di Dityabotz",
                   "rowId": ".? database"
                 }, {
                   "title": "📝 Vote & Absen",
@@ -363,7 +363,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? tanpakategori"
                 }, {
                   "title": "👑 owner",
-                  "description": "menu Khusu Owner Putbotz",
+                  "description": "menu Khusu Owner Dityabotz",
                   "rowId": ".? owner"
                 }
               ]
